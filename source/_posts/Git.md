@@ -21,7 +21,7 @@ $ git remote add origin [url]
 ## 修改仓库地址
 
 ``` bash
-$ git remote origin set-url [url]
+$ git remote set-url origin [url]
 ```
 
 ## 清除缓存
