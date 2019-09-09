@@ -1,6 +1,7 @@
 ---
-title: Kotlin
+title: Kotlin 基本语法
 date: 2019-09-07 21:14:13
+categories: Kotlin
 tags: Kotlin
 ---
 
