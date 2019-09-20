@@ -31,3 +31,19 @@ $ git rm -r --cached .  (文件名，如果忽略全部 直接用 ".")
 $ git add .
 $ git commit -m 'update .gitignore'
 ```
+
+## 分支管理
+
+### 查看分支 
+```
+git branch    //查看本地分支
+git branch -a //查看所有分支
+git branch -v //查看各分支最后一个提交对象的信息
+```
+
+### 删除分支
+
+```
+$ git branch -d testing   		   //删除本地分支
+$ git push origin --delete testing //删除远程分支
+```
